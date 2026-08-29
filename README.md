@@ -6,8 +6,9 @@
 - 📫 You can contact me via email: [hello@muhammadessa.me](mailto:hello@muhammadessa.me)
 - 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
 
-<h2>💻 Tech Stack and Tools</h2>
+<br />
 
+<h2>💻 Tech Stack and Tools</h2>
 <br />
 
 <table width="100">
@@ -126,4 +127,13 @@
     </td>
 </tr>
 </table>
+<br />
 
+<h2>⚙️ GitHub Analytics</h2>
+<br />
+<p>
+<a href="https://github.com/imuhammadessa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imuhammadessa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imuhammadessa&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
