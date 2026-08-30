@@ -34,68 +34,68 @@
         <img width="70" height="70" alt="tailwindcss" src="https://github.com/user-attachments/assets/28c6fa4e-29b0-4771-bc30-568552a26860" />
     </td>
     <td align='center'>
-      <img width="70" height="70" alt="javascript" src="https://github.com/user-attachments/assets/603c21f5-bb7e-4f74-b9a1-a3617ad1d8c8" />
+        <img width="70" height="70" alt="javascript" src="https://github.com/user-attachments/assets/603c21f5-bb7e-4f74-b9a1-a3617ad1d8c8" />
     </td>
     <td align='center'>
-      <img width="70" height="70" alt="nodejs" src="https://github.com/user-attachments/assets/12023e50-05f9-4626-a6dd-38a94325d94a" />
+        <img width="70" height="70" alt="nodejs" src="https://github.com/user-attachments/assets/12023e50-05f9-4626-a6dd-38a94325d94a" />
     </td>
 </tr>    
   <tr>
     <td align='center'>
-        <img width="50" height="50" alt="typescript" src="https://github.com/user-attachments/assets/e92cd81b-a1d5-41ba-8536-ca4c40d4d4df" />
+        <img width="70" height="70" alt="typescript" src="https://github.com/user-attachments/assets/e92cd81b-a1d5-41ba-8536-ca4c40d4d4df" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="react" src="https://github.com/user-attachments/assets/abd2709f-5d6b-4eb1-9875-b40b4714b9c3" />
+        <img width="70" height="70" alt="react" src="https://github.com/user-attachments/assets/abd2709f-5d6b-4eb1-9875-b40b4714b9c3" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="redux" src="https://github.com/user-attachments/assets/fda9543f-a628-4b94-9623-7720b75ed7c2" />
+        <img width="70" height="70" alt="redux" src="https://github.com/user-attachments/assets/fda9543f-a628-4b94-9623-7720b75ed7c2" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="express" src="https://github.com/user-attachments/assets/399bae5f-822d-4dfc-a7fb-e5dc4b6b89a7" />
+        <img width="70" height="70" alt="express" src="https://github.com/user-attachments/assets/399bae5f-822d-4dfc-a7fb-e5dc4b6b89a7" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="php" src="https://github.com/user-attachments/assets/e2c997aa-c4ec-4f28-9fd4-cef94b6d363c" />
+        <img width="70" height="70" alt="php" src="https://github.com/user-attachments/assets/e2c997aa-c4ec-4f28-9fd4-cef94b6d363c" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="laravel" src="https://github.com/user-attachments/assets/daf17ca1-aaba-4060-9182-e005ae8be525" />
+        <img width="70" height="70" alt="laravel" src="https://github.com/user-attachments/assets/daf17ca1-aaba-4060-9182-e005ae8be525" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="mongodb" src="https://github.com/user-attachments/assets/bce84131-f408-440f-a7df-bdbb87b86bcd" />
+        <img width="70" height="70" alt="mongodb" src="https://github.com/user-attachments/assets/bce84131-f408-440f-a7df-bdbb87b86bcd" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/3ba2b78a-eedf-40b6-b9bd-248dfe28ddf5" />
+        <img width="70" height="70" alt="mysql" src="https://github.com/user-attachments/assets/3ba2b78a-eedf-40b6-b9bd-248dfe28ddf5" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="postgres" src="https://github.com/user-attachments/assets/9d2b601a-4e9d-4ad6-89ee-a9e086df2d9c" />
+        <img width="70" height="70" alt="postgres" src="https://github.com/user-attachments/assets/9d2b601a-4e9d-4ad6-89ee-a9e086df2d9c" />
     </td>
 </tr>
 <tr>
     <td align='center'>
-      <img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/287555a4-2229-4e1f-8277-787d7bc97022" />
+        <img width="70" height="70" alt="python" src="https://github.com/user-attachments/assets/287555a4-2229-4e1f-8277-787d7bc97022" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="wordpress" src="https://github.com/user-attachments/assets/d4febcea-2447-459f-bf75-171491bc7fa5" />
+        <img width="70" height="70" alt="wordpress" src="https://github.com/user-attachments/assets/d4febcea-2447-459f-bf75-171491bc7fa5" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="npm" src="https://github.com/user-attachments/assets/e8ce5e47-e770-4f41-a53a-c786f88ea796" />
+        <img width="70" height="70" alt="npm" src="https://github.com/user-attachments/assets/e8ce5e47-e770-4f41-a53a-c786f88ea796" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="vite" src="https://github.com/user-attachments/assets/26935621-151f-4725-8430-905d4685cda1" />
+        <img width="70" height="70" alt="vite" src="https://github.com/user-attachments/assets/26935621-151f-4725-8430-905d4685cda1" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="prisma" src="https://github.com/user-attachments/assets/419b8da3-e003-471c-83ad-aea5ae978704" />
+        <img width="70" height="70" alt="prisma" src="https://github.com/user-attachments/assets/419b8da3-e003-471c-83ad-aea5ae978704" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/b2e1bdb0-f06f-4d12-bd84-061ceefbe9f3" />
+        <img width="70" height="70" alt="git" src="https://github.com/user-attachments/assets/b2e1bdb0-f06f-4d12-bd84-061ceefbe9f3" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="anaconda" src="https://github.com/user-attachments/assets/ce6338d0-f602-46e9-8982-5c6dd5c83199" />
+        <img width="70" height="70" alt="anaconda" src="https://github.com/user-attachments/assets/ce6338d0-f602-46e9-8982-5c6dd5c83199" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="postman" src="https://github.com/user-attachments/assets/e2845c2e-b70a-4cc5-a133-1dea07eec95b" />
+        <img width="70" height="70" alt="postman" src="https://github.com/user-attachments/assets/e2845c2e-b70a-4cc5-a133-1dea07eec95b" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="discord" src="https://github.com/user-attachments/assets/00ad2065-49e8-4eed-aba2-75fad579a74f" />
+        <img width="70" height="70" alt="discord" src="https://github.com/user-attachments/assets/00ad2065-49e8-4eed-aba2-75fad579a74f" />
     </td>       
 </tr>
 <tr>
