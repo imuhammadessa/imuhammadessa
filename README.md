@@ -100,31 +100,31 @@
 </tr>
 <tr>
     <td align='center'>
-      <img width="50" height="50" alt="githubactions" src="https://github.com/user-attachments/assets/cdd2acba-578e-4f91-8d93-3dde2b9c2a99" />
+      <img width="70" height="70" alt="githubactions" src="https://github.com/user-attachments/assets/cdd2acba-578e-4f91-8d93-3dde2b9c2a99" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/577804e8-5580-4b2c-b599-9d8d06e6aba4" />
+      <img width="70" height="70" alt="docker" src="https://github.com/user-attachments/assets/577804e8-5580-4b2c-b599-9d8d06e6aba4" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="github" src="https://github.com/user-attachments/assets/4b651ca1-f536-4389-a8be-cd34e5117be6" />
+        <img width="70" height="70" alt="github" src="https://github.com/user-attachments/assets/4b651ca1-f536-4389-a8be-cd34e5117be6" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="ai" src="https://github.com/user-attachments/assets/1a8a0324-e32e-4a23-95ea-a5166fe1fffa" />
+      <img width="70" height="70" alt="ai" src="https://github.com/user-attachments/assets/1a8a0324-e32e-4a23-95ea-a5166fe1fffa" />
     </td>
     <td align='center'>
-        <img width="50" height="50" alt="netlify" src="https://github.com/user-attachments/assets/7d962ea0-efdc-4ae5-94a7-64fc5e033e73" />
+        <img width="70" height="70" alt="netlify" src="https://github.com/user-attachments/assets/7d962ea0-efdc-4ae5-94a7-64fc5e033e73" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="ubuntu" src="https://github.com/user-attachments/assets/5abb39b4-7429-413c-9008-ea7fcf47ea6f" />
+      <img width="70" height="70" alt="ubuntu" src="https://github.com/user-attachments/assets/5abb39b4-7429-413c-9008-ea7fcf47ea6f" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="vercel" src="https://github.com/user-attachments/assets/f500eb9a-a4b2-4186-9485-fbbede324209" />
+      <img width="70" height="70" alt="vercel" src="https://github.com/user-attachments/assets/f500eb9a-a4b2-4186-9485-fbbede324209" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="vscode" src="https://github.com/user-attachments/assets/29d71e10-133d-47ec-8122-ad63d9d256cd" />
+      <img width="70" height="70" alt="vscode" src="https://github.com/user-attachments/assets/29d71e10-133d-47ec-8122-ad63d9d256cd" />
     </td>
     <td align='center'>
-      <img width="50" height="50" alt="webpack" src="https://github.com/user-attachments/assets/a4711d3d-9772-41ed-9b9c-6bedb7062393" />
+      <img width="70" height="70" alt="webpack" src="https://github.com/user-attachments/assets/a4711d3d-9772-41ed-9b9c-6bedb7062393" />
     </td>
 </tr>
 </table>
