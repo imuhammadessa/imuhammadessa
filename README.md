@@ -7,7 +7,7 @@
 - 🌍 You can read more about me: [https://muhammadessa.me/](https://muhammadessa.me/)
 - 📫 You can contact me via email: [hello@muhammadessa.me](mailto:hello@muhammadessa.me)
 - 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
-- 👀 You have been successfully counted on my profile: <img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views" alt="Profile Views">
+- 👀 Your visit has been counted: <img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views" alt="Profile Views">
 
 <br />
 
