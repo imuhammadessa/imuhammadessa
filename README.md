@@ -1,10 +1,13 @@
-# 👋 Hi there, I’m Muhammad Essa
-- 🔭 I'm a developer, candour and a researcher.
-- 🌱 I've been programming for quite a few years, specializing in AI-powered PHP/Laravel and React/TypeScript development.
-- 💞️ I love turning great ideas into modern web experiences. I always keeping an eye on the tech-ecosystem for what comes next.
-- 💖 You can read more about me: [https://muhammadessa.me/](https://muhammadessa.me/)
+# 👋 Hi there, I’m Muhammad Essa from Pakistan 🇵🇰.
+- 🔭 I'm a full stack developer, candour and a researcher.
+- 🚀 I'm currently working on web apps with Laravel, Inertia.js, React and TypeScript.
+- 🌱 I'm learning something new every day and keeping an eye on what's next in tech and I'm excited to continue.
+- 💞️ I've been programming for quite a few years looking to collaborate on projects that solve real problems for end-users.
+- 💖 I love turning great ideas into modern web experiences and building systems that save time, boost performance and drive sales.
+- 🌍 You can read more about me: [https://muhammadessa.me/](https://muhammadessa.me/)
 - 📫 You can contact me via email: [hello@muhammadessa.me](mailto:hello@muhammadessa.me)
-- 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/) - <img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views" alt="Profile Views">
+- 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
+- 👀 You have been successfully counted on my profile: <img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views" alt="Profile Views">
 
 <br />
 
