@@ -3,11 +3,12 @@
 - 🚀 I'm currently working on web apps with Laravel, Inertia.js, React and TypeScript.
 - 🌱 I'm learning something new every day and keeping an eye on what's next in tech and I'm excited to continue.
 - 💞️ I've been programming for quite a few years looking to collaborate on projects that solve real problems for end-users.
-- 💖 I love turning great ideas into modern web experiences and building systems that save time, boost performance and drive sales.
+- 💖 I love turning great ideas into modern web experiences, building systems that save time, boost performance and drive sales.
 - 🌍 You can read more about me: [https://muhammadessa.me/](https://muhammadessa.me/)
 - 📫 You can contact me via email: [hello@muhammadessa.me](mailto:hello@muhammadessa.me)
 - 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
-- 👀 Your visit has been counted: <img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views" alt="Profile Views">
+- 👀 Your visit has been counted <br />
+<img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views" alt="Profile Views"> - <a href="https://github.com/sponsors/imuhammadessa"><img src="https://img.shields.io/github/sponsors/imuhammadessa?label=%E2%99%A5%20Sponsor%20my%20work&style=for-the-badge&labelColor=111827&color=ff2d78" alt="Sponsor my work"></a>
 
 <br />
 
