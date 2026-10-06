@@ -7,8 +7,17 @@
 - 🌍 You can read more about me: [https://muhammadessa.me/](https://muhammadessa.me/)
 - 📫 You can contact me via email: [hello@muhammadessa.me](mailto:hello@muhammadessa.me)
 - 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
-- 👀 Your visit has been counted and if you think my work is appreciated, consider sponsoring me <br />
-<img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views&style=for-the-badge&color=22c55e" alt="Profile Views" height="28"> <a href="https://github.com/sponsors/imuhammadessa"><img src="https://img.shields.io/github/sponsors/imuhammadessa?label=%E2%99%A5%20Sponsor%20my%20work&style=for-the-badge&labelColor=111827&color=ff2d78" alt="Sponsor my work" height="28"></a>
+- 👀 Your visit has been counted and if you think my work is appreciated, consider sponsoring me. <br /> <br />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views&style=for-the-badge&color=22c55e" alt="Profile Views" height="28">
+    </td>
+    <td align="center">
+      <a href="https://github.com/sponsors/imuhammadessa"><img src="https://img.shields.io/github/sponsors/imuhammadessa?label=%E2%99%A5%20Sponsor%20my%20work&style=for-the-badge&labelColor=111827&color=ff2d78" alt="Sponsor my work" height="28"></a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
