@@ -4,7 +4,7 @@
 - 💞️ I love turning great ideas into modern web experiences. I always keeping an eye on the tech-ecosystem for what comes next.
 - 💖 You can read more about me: [https://muhammadessa.me/](https://muhammadessa.me/)
 - 📫 You can contact me via email: [hello@muhammadessa.me](mailto:hello@muhammadessa.me)
-- 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/)
+- 💬 X (Twitter) [@imuhammadessa](https://x.com/imuhammadessa) - LinkedIn [@imuhammadessa](https://www.linkedin.com/in/imuhammadessa/) - <img src="https://komarev.com/ghpvc/?username=imuhammadessa&label=Profile%20Views" alt="Profile Views">
 
 <br />
 
