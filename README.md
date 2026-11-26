@@ -147,7 +147,7 @@
 <br />
 <p align='center'>
 <a href="https://github.com/imuhammadessa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imuhammadessa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imuhammadessa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imuhammadessa&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
