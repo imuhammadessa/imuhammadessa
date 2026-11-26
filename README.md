@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Muhammad Essa from Pakistan 🇵🇰.
 - 🔭 I'm a full stack developer, candour and a researcher.
-- 🚀 I'm currently working on web apps with Laravel, Inertia.js, React and TypeScript.
+- 🚀 I'm currently working on web apps with PHP/Laravel, Inertia.js, React, TypeScript and MySQL.
 - 🌱 I'm learning something new every day and keeping an eye on what's next in tech and I'm excited to continue.
 - 💞️ I've been programming for quite a few years looking to collaborate on projects that solve real problems for end-users.
 - 💖 I love turning great ideas into modern web experiences, building systems that save time, boost performance and drive sales.
